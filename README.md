@@ -64,7 +64,8 @@ Phishing_Classifier/
 
 1.  **Clone the repository**
     ```bash
-    
+    git clone https://github.com/Arnab-Ghosh7/Phising_Classifier.git
+    cd Phising_Classifier
     ```
 
 2.  **Create a virtual environment (Recommended)**
