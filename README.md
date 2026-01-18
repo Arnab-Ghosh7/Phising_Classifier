@@ -86,7 +86,7 @@ Phishing_Classifier/
 
 1.  **Start the Server**
     ```bash
-    python main.py
+ 
     ```
     The application will launch on `http://localhost:5000`.
 
