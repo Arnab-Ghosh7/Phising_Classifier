@@ -10,7 +10,11 @@
 
 ## 📖 Overview
 
+In today's digital landscape, phishing attacks remain one of the most prevalent security threats. This **Phishing Classifier** is a sophisticated Machine Learning web application engineered to detect and classify phishing websites with high accuracy. By analyzing over 30 distinct URL-based features—such as IP address presence, URL length, SSL state, and domain registration length—the system can identify malicious intent hidden within web addresses.
 
+The application is built upon a modular and scalable architecture that separates data ingestion, validation, preprocessing, and model training into distinct components. This ensures valid training data through rigorous schema checks and enhances prediction reliability. Under the hood, it employs a **Clustering-Verification-Ensemble** approach: data is first clustered using K-Means to identify underlying patterns, and then a dedicated XGBoost model is trained for each cluster. This granular approach allows the system to handle diverse phishing strategies more effectively than a single monolithic model.
+
+Whether you are a security researcher looking for a baseline model or a developer integrating phishing detection into a larger pipeline, this project provides a robust, API-driven solution complete with performance monitoring.
 
 ## 🚀 Features
 
