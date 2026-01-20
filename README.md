@@ -129,7 +129,7 @@ The model relies on a robust set of features extracted from URLs. The schema (`s
 - `Domain_registeration_length`: How long the domain has been registered.
 - `Favicon`: Presence of favicon.
 - `port`: Non-standard ports.
-- `HTTPS_token`: HTTPS in domain part.
+- `HTTPS_token`: HTTPS in domain part
 
 ## Author
 Arnab Ghosh
