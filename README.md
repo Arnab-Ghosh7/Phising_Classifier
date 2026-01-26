@@ -18,13 +18,6 @@ Whether you are a security researcher looking for a baseline model or a develope
 
 ## 🚀 Features
 
--   **Advanced Training Pipeline**: Automated workflow for data validation, transformation, and multi-model training.
--   **Granular Prediction**: Real-time classification of URLs using cluster-specific XGBoost models.
--   **Intelligent Clustering**: Utilizes **K-Means clustering** to group similar data points, optimizing model performance for specific data subsets.
--   **Ensemble Power**: Leverages **XGBoost**, a gradient boosting framework known for its speed and performance in classification tasks.
--   **Robust Validation**: Strict schema validation for both training and prediction data to prevent garbage-in-garbage-out.
--   **Performance Monitoring**: Integrated `Flask-MonitoringDashboard` for tracking API latency, utilization, and error rates.
--   **RESTful API**: Exposes clean `/train` and `/predict` endpoints for easy integration with other systems.
 
 ## 🛠️ Technology Stack
 
