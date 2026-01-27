@@ -111,7 +111,7 @@ Generates predictions for a batch of data.
 *   **Body**:
     ```json
     {
-        "folderPath": "path/to/prediction_batch_files"
+        "folderPath": "path/to/prediction_batch_files."
     }
     ```
 
