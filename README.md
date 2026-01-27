@@ -123,7 +123,7 @@ The model relies on a robust set of features extracted from URLs. The schema (`s
 - `URL_Length`: Length of the URL.
 - `Shortining_Service`: Usage of TinyURL or similar services.
 - `having_At_Symbol`: Presence of `@` symbol.
-- `double_slash_redirecting`: Redirection using `//`.
+- `double_slash_redirecting`: Redirection using `//`...
 - `Prefix_Suffix`: Domain contains `-`.
 - `SSLfinal_State`: HTTPS status.
 - `Domain_registeration_length`: How long the domain has been registered.
