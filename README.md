@@ -74,7 +74,7 @@ Phishing_Classifier/
     # Windows
     venv\Scripts\activate
     # Linux/Mac
-    source venv/bin/activate
+    source venv/bin/activate   
     ```
 
 3.  **Install dependencies**
