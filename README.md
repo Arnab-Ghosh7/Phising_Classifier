@@ -118,18 +118,7 @@ Generates predictions for a batch of data.
 ## 📊 Data Schema
 The model relies on a robust set of features extracted from URLs. The schema (`schema_training.json`) validates these inputs.
 
-**Key Features Include:**
-- `having_IP_Address`: Checks if IP is used instead of domain.
-- `URL_Length`: Length of the URL.
-- `Shortining_Service`: Usage of TinyURL or similar services.
-- `having_At_Symbol`: Presence of `@` symbol.
-- `double_slash_redirecting`: Redirection using `//`...
-- `Prefix_Suffix`: Domain contains `-`.
-- `SSLfinal_State`: HTTPS status.
-- `Domain_registeration_length`: How long the domain has been registered.
-- `Favicon`: Presence of favicon.
-- `port`: Non-standard ports.
-- `HTTPS_token`: HTTPS in domain part
+
 
 
 
