@@ -28,14 +28,6 @@ Whether you are a security researcher looking for a baseline model or a develope
 
 
 ## 🛠️ Technology Stack
-| Component | Technology | Description |
-| :--- | :--- | :--- |
-| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Core programming language. |
-| **Web Framework** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | Lightweight WSGI web application framework. |
-| **ML Libraries** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | Used for K-Means clustering and data preprocessing. |
-| **Model** | ![XGBoost](https://img.shields.io/badge/XGBoost-EB3429?style=flat&logo=xgboost&logoColor=white) | High-performance gradient boosting library. |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Data manipulation and analysis. |
-| **Database** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) | Serverless database for data validation and staging. |
 
 
 ## 📂 Project Structure
